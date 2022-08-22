@@ -1,0 +1,13 @@
+id: author-1
+fields:
+  pageTitle: Welcome to Sitecore JSS
+placeholders:
+  jss-main:
+    - componentName: BootCampAuthor
+      fields:
+        authorname: Dipesh Vitthal Meher
+        authordesignation: Senior Associate
+        authordepartment: Delivery Sitecore
+        authorImage:
+          src:  /data/media/img/sc_logo.png
+          alt:  Author Name

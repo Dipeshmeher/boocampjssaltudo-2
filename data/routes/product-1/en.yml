@@ -1,0 +1,19 @@
+id: product-1
+fields:
+  pageTitle: Welcome to Sitecore JSS Product Details
+placeholders:
+  jss-main:
+    - componentName: ProductDetails
+      fields:
+        productName: Iphone
+        productModelYear: 2022
+        productBrand: Apple
+        productImage:
+          src:  /data/media/img/sc_logo.png
+          alt:  Product Name
+        productPricing: 100000
+    - componentName: ProductCarousel
+      fields:
+        items:
+        - id: carousel-item-1
+        - id: carousel-item-2

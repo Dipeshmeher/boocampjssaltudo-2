@@ -1,0 +1,12 @@
+id: department-1
+fields:
+  pageTitle: Welcome to Sitecore JSS Department
+placeholders:
+  jss-main:
+    - componentName: BootCampDepartments
+      fields:
+        departmentName: IT
+        departmentResponsibilities: Senior Associate        
+        departmentLogo:
+          src:  /data/media/img/sc_logo.png
+          alt: Department Name
